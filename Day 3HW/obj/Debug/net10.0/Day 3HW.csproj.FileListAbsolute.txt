@@ -1,0 +1,14 @@
+C:\Users\2026\Desktop\Week 4 c#2\Day 3HW\bin\Debug\net10.0\Day 3HW.exe
+C:\Users\2026\Desktop\Week 4 c#2\Day 3HW\bin\Debug\net10.0\Day 3HW.deps.json
+C:\Users\2026\Desktop\Week 4 c#2\Day 3HW\bin\Debug\net10.0\Day 3HW.runtimeconfig.json
+C:\Users\2026\Desktop\Week 4 c#2\Day 3HW\bin\Debug\net10.0\Day 3HW.dll
+C:\Users\2026\Desktop\Week 4 c#2\Day 3HW\bin\Debug\net10.0\Day 3HW.pdb
+C:\Users\2026\Desktop\Week 4 c#2\Day 3HW\obj\Debug\net10.0\Day 3HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2026\Desktop\Week 4 c#2\Day 3HW\obj\Debug\net10.0\Day 3HW.AssemblyInfoInputs.cache
+C:\Users\2026\Desktop\Week 4 c#2\Day 3HW\obj\Debug\net10.0\Day 3HW.AssemblyInfo.cs
+C:\Users\2026\Desktop\Week 4 c#2\Day 3HW\obj\Debug\net10.0\Day 3HW.csproj.CoreCompileInputs.cache
+C:\Users\2026\Desktop\Week 4 c#2\Day 3HW\obj\Debug\net10.0\Day 3HW.dll
+C:\Users\2026\Desktop\Week 4 c#2\Day 3HW\obj\Debug\net10.0\refint\Day 3HW.dll
+C:\Users\2026\Desktop\Week 4 c#2\Day 3HW\obj\Debug\net10.0\Day 3HW.pdb
+C:\Users\2026\Desktop\Week 4 c#2\Day 3HW\obj\Debug\net10.0\Day 3HW.genruntimeconfig.cache
+C:\Users\2026\Desktop\Week 4 c#2\Day 3HW\obj\Debug\net10.0\ref\Day 3HW.dll
